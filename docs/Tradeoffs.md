@@ -16,4 +16,6 @@ Due to time constraints, there are certain things that may not be possible to im
 8. **Order books by recent.** Improves UX.
 9. **Documentation.** It can definitely be improved.
 11. **Testing.** No tests were added.
-10. **API.** I don't know how the API it's implemented but things I would add are pagination, proper authentication, swagger.
+10. **Accessibility** Didn't test for accessibility.
+11. **i18n.** We could add internationalization.
+12. **API.** I don't know how the API it's implemented but things I would add are pagination, proper authentication, swagger.
