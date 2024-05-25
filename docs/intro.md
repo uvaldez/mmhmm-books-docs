@@ -6,6 +6,9 @@ sidebar_position: 1
 
 Let's discover **mmhmm Bookshelf App**.
 
+## Watch the Video
+https://ooo.mmhmm.app/watch/z_HncpQ3Oh39YwRTuGORMC
+
 ## Stack
 
 * [NextJS 14](https://nextjs.org/)
